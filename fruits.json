@@ -2,32 +2,32 @@
   "fruit" : {
     "0" : {
       "name" : "Apple",
-      "amt" : 20,
-      "qty" : 30,
+      "amt" : "20",
+      "qty" : "30",
       "stock" : "Available"
     },
     "1" : {
       "name" : "Orange",
-      "amt" : 10,
-      "qty" : 50,
+      "amt" : "10",
+      "qty" : "50",
       "stock" : "Available"
     },
     "2" : {
       "name" : "Mango",
-      "amt" : 25,
-      "qty" : 15,
+      "amt" : "25",
+      "qty" : "15",
       "stock" : "Available"
     },
     "3" : {
       "name" : "Gauva",
-      "amt" : 40,
-      "qty" : 15,
+      "amt" : "40",
+      "qty" : "15",
       "stock" : "Avaiable"
     },
     "4" : {
       "name" : "Grapes",
-      "amt" : 15,
-      "qty" : 20,
+      "amt" : "15",
+      "qty" : "20",
       "stock" : "N/A"
     }
   }
