@@ -1,0 +1,35 @@
+{
+  "fruit" : {
+    "Apple" : {
+      "amt" : 20,
+      "qty" : 30,
+      "stock" : "Available"
+    },
+    "Banana" : {
+      "amt" : 10,
+      "qty" : 50,
+      "stock" : "Available"
+    },
+    "Guava" : {
+      "amt" : 25,
+      "qty" : 15,
+      "stock" : "Available"
+    },
+    "Orange" : {
+      "amt" : 40,
+      "qty" : 15,
+      "stock" : "Avaiable"
+    },
+    "mango" : {
+      "amt" : 15,
+      "qty" : 20,
+      "stock" : "N/A"
+    }
+  },
+  "grain" : {
+    "Maize" : 20,
+    "Ragi" : 40,
+    "Rice" : 30,
+    "Wheat" : 10
+  }
+}
