@@ -1,24 +1,24 @@
 {
-  "fruit" : {
-    "1" : {
+  "grains" : {
+    "0" : {
       "name" : "Rice",
       "amt" : 20,
       "qty" : 30,
       "stock" : "Available"
     },
-    "2" : {
+    "1" : {
       "name" : "Wheat",
       "amt" : 10,
       "qty" : 50,
       "stock" : "Available"
     },
-    "3" : {
+    "2" : {
       "name" : "Maize",
       "amt" : 25,
       "qty" : 15,
       "stock" : "Available"
     },
-    "4" : {
+    "3" : {
       "name" : "Barley",
       "amt" : 40,
       "qty" : 15,
