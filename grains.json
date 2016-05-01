@@ -7,13 +7,7 @@
       "stock" : "Available",
       "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/Rice.jpg"
     },
-    "1" : {
-      "name" : "Wheat",
-      "amt" : "10",
-      "qty" : "50",
-      "stock" : "Available",
-      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/wheat.jpg"
-    },
+    
     "2" : {
       "name" : "Maize",
       "amt" : "25",
@@ -21,6 +15,15 @@
       "stock" : "Available",
       "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/Maize.jpg"
     },
+    
+    "1" : {
+      "name" : "Wheat",
+      "amt" : "10",
+      "qty" : "50",
+      "stock" : "Available",
+      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/wheat.jpg"
+    },
+    
     "3" : {
       "name" : "Raagi",
       "amt" : "40",
