@@ -4,31 +4,36 @@
       "name" : "Apple",
       "amt" : "20",
       "qty" : "30",
-      "stock" : "Available"
+      "stock" : "Available",
+      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/apple.jpg"
     },
     "1" : {
       "name" : "Orange",
       "amt" : "10",
       "qty" : "50",
-      "stock" : "Available"
+      "stock" : "Available",
+      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/banana-crop.jpg"
     },
     "2" : {
       "name" : "Mango",
       "amt" : "25",
       "qty" : "15",
-      "stock" : "Available"
+      "stock" : "Available",
+      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/mango.jpg"
     },
     "3" : {
       "name" : "Gauva",
       "amt" : "40",
       "qty" : "15",
-      "stock" : "Available"
+      "stock" : "Available",
+      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/guava.png"
     },
     "4" : {
       "name" : "Grapes",
       "amt" : "15",
       "qty" : "20",
-      "stock" : "N/A"
+      "stock" : "N/A",
+      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/orange.jpg"
     }
   }
 }
