@@ -12,7 +12,7 @@
       "amt" : "10",
       "qty" : "50",
       "stock" : "Available",
-      "image" : "https://github.com/ArjunThiraviam/jumbo/blob/master/wheat_1.jpg"
+      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/wheat.jpg"
     },
     "2" : {
       "name" : "Maize",
