@@ -5,14 +5,14 @@
       "amt" : "20",
       "qty" : "30",
       "stock" : "Available",
-      "image" : ""
+      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/Rice.jpg"
     },
     "1" : {
       "name" : "Wheat",
       "amt" : "10",
       "qty" : "50",
       "stock" : "Available",
-      "image" : ""
+      "image" : "https://github.com/ArjunThiraviam/jumbo/blob/master/wheat_1.jpg"
     },
     "2" : {
       "name" : "Maize",
@@ -22,11 +22,11 @@
       "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/Maize.jpg"
     },
     "3" : {
-      "name" : "Barley",
+      "name" : "Raagi",
       "amt" : "40",
       "qty" : "15",
       "stock" : "Available",
-      "image" : ""
+      "image" : "https://raw.githubusercontent.com/ArjunThiraviam/jumbo/master/Raagi.jpg"
     }
   }
 }
